@@ -1,5 +1,5 @@
 # hippo2
-my new project
+Hippos are big
 
 Based on seed project `satellite-of-love:spring-rest-seed`
 
