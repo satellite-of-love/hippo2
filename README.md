@@ -1,5 +1,5 @@
 # hippo2
-Hippos are big
+Hippos are big, really big
 
 Based on seed project `satellite-of-love:spring-rest-seed`
 
